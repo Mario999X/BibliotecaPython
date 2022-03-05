@@ -17,5 +17,5 @@ La aplicación funcionará mediante un menú interactivo presentado en una CLI c
 
 ## Datos de los usuario: dni, nombre, correo electrónico, teléfono, domicilio, libros en préstamo.
 
-## Datos de libro: ISBN, título, autor, genero, portada, sinopsis, ejemplares, usuario que ha recibido el libro en préstamo, fecha de préstamo.
+## Datos de libro: ISBN, título, autor, genero, portada, sinopsis, ejemplares, usuario que ha recibido el libro en préstamo.
 
